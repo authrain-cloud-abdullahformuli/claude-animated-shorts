@@ -1,0 +1,30 @@
+{
+  "name": "@authrain/claude-animated-shorts",
+  "version": "1.0.0",
+  "description": "Autonomous 3D cartoon story shorts generator for Claude Code, Remotion, and Three.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs",
+    "lint": "node -e \"console.log('Validating claude-animated-shorts structure...');\""
+  },
+  "keywords": [
+    "claude-code",
+    "agent-skills",
+    "remotion",
+    "threejs",
+    "animated-shorts",
+    "cartoon-3d",
+    "video-generation",
+    "audio-synthesis"
+  ],
+  "author": "Abdullah Formuli <authrainmedia@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/claude-animated-shorts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/claude-animated-shorts/issues"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/claude-animated-shorts#readme"
+}

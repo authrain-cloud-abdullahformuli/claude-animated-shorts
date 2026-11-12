@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+title: "claude-animated-shorts: 3D Cartoon Story Shorts Generator for Claude Code (Three.js + Remotion)"
+version: 1.0.0
+date-released: 2026-11-11
+url: "https://github.com/authrain-cloud-abdullahformuli/claude-animated-shorts"
+license: MIT
